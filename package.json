@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "etouyang",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "etouyang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "chromedriver": "^2.43.1",
+    "dateformat": "^3.0.3",
+    "eventproxy": "^1.0.0",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "superagent": "^4.0.0"
+  }
+}
